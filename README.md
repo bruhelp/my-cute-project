@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://bruhelp.github.io/my-cute-project/)
+- [Публичная страница на GitHub Pages](https://bruhelp.github.io/my-cute-project/src/)
